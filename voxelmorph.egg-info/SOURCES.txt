@@ -21,4 +21,5 @@ voxelmorph/torch/layers.py
 voxelmorph/torch/losses.py
 voxelmorph/torch/modelio.py
 voxelmorph/torch/networks.py
+voxelmorph/torch/networks_modified.py
 voxelmorph/torch/utils.py
